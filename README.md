@@ -1,86 +1,19 @@
 # Amazon-_Product_-Review_-Analysis-DSA-Incubator-Project-
-This is an additional step in the process of developing my portfolio while enrolled in Incubator Hub's Data Analysis course.I am an enthusiastic data analyst who is committed to turning unstructured data into useful insights and gripping stories. Utilizing data to solve practical business issues. 
-📁 amazon-case-study-project
-│
-├── 📄 README.md
-├── 📁 data
-│   └── AMAZON CASE STUDY WORKSHEET (Project 1).xlsx
-├── 📁 dashboard
-│   └── [Optional: Add any charts or screenshots if applicable]
-└── 📁 insights
-    └── Summary_Insights.md (or .txt)
-# 📊 Amazon Product Analysis Case Study
+##This is an additional step in the process of developing my portfolio while enrolled in Incubator Hub's Data Analysis course.I am an enthusiastic data analyst who is committed to turning unstructured data into useful insights and gripping stories. Utilizing data to solve practical business issues. 
 
-## 🧠 Business Context
-
-In today's competitive e-commerce environment, understanding customer preferences and product performance is key to making informed decisions. This case study analyzes Amazon product listings to uncover insights that can drive better product visibility, pricing strategies, and customer satisfaction.
-
----
-
-## 🎯 Objective
-
-To perform exploratory data analysis (EDA) on Amazon product data and generate actionable insights using Excel tools such as pivot tables, formulas, charts, and dashboards.
-
----
-
-## 🛠️ Approach & Tools
-
-- **Tool Used**: Microsoft Excel
-- **Skills Applied**:
-  - Data cleaning and formatting
-  - Pivot Tables & Charts
-  - Conditional formatting
-  - Dashboard creation
-  - Descriptive statistics
-
----
-
-## 📈 Key Findings
-
-- 🔹 Most reviewed category: *[CategoryName]* with over *X* reviews
-- 🔹 Average rating across all products: *4.3* stars
-- 🔹 Categories with fewer than 1,000 reviews: *[list or count]*
-- 🔹 Best-performing brands: *[Brand A, Brand B]* in terms of both rating and review volume
-- 🔹 High correlation between discounts and sales volumes in *[Category X]*
-
----
-
-## 📋 Deliverables
-
-- ✅ Excel File with:
-  - Cleaned dataset
-  - Pivot tables
-  - Visual charts
-  - Dashboard
-- ✅ Insights summary
-- ✅ This GitHub repository
-
----
-
-## 📁 Repository Structure    
-
----
-
-## ✅ Recommendations
-
-- Focus marketing on top-rated products with >1000 reviews
-- Improve listing for low-rating but high-review-count products
-- Analyze pricing strategy for underperforming categories
-- Leverage discounts strategically in categories that respond positively
-
-# 🛒 Amazon Product Review Analysis
+## Project Topic: Amazon Product Review Analysis
 
 ## 📌 Case Study Overview
 
-RetailTech Insights, a data consulting firm for e-commerce, tasked our team with analyzing Amazon product review data. This analysis aims to provide business insights that can help guide product development, marketing strategies, and customer engagement optimization.
+### Understanding consumer predilections and amount performance is key to making cognizant conclusions. RetailTech Insights, a dossier advisory firm for e-commerce. This reasoning aims to support trade acumens that can help guide crop development, shopping procedures, and client date optimization,perceptibility, fixing procedures, and client satisfaction.This project was grown as contained the **DSA Data Analysis Capstone Project**.
 
-This project was developed as part of the **DSA Data Analysis Capstone Project**.
+### 🎯 Objective
 
----
+### To perform exploratory data analysis (EDA) on Amazon product data and generate actionable insights using Excel tools such as pivot tables, formulas, charts, and dashboards.
 
 ## 🧾 Dataset Description
 
-The dataset contains information scraped from Amazon product pages:
+### The dataset contains information from Amazon product site:
 
 - **Product Details:** Name, Category, Actual Price, Discount, Ratings
 - **Customer Engagement:** Review Count, Review Title/Content
@@ -118,9 +51,9 @@ The dataset contains information scraped from Amazon product pages:
 
 ## 📊 Dashboard Overview
 
-The Excel dashboard includes:
+## The Excel dashboard includes:
 
-- KPI Cards: Total Products, Reviews, Avg Rating, Revenue
+- Column: Total Products, Reviews, Avg Rating, Revenue
 - Bar Charts: Discount %, Review Counts, Revenue by Category
 - Pie Charts: Rating Distribution, Review Buckets
 - Scatter Plot: Ratings vs Discount %
@@ -128,45 +61,46 @@ The Excel dashboard includes:
 
 ---
 
-## 📝 Key Findings
+## 🛠️ Tools
 
-- **Mobile Accessories** category had the most products.
-- Some categories consistently offer **≥50% discounts**.
-- Ratings do not directly correlate with discount size.
-- Several high-rated products had **low review counts** (suggesting potential manipulation or new listings).
-- Significant revenue potential concentrated in a few categories.
-
----
-
-## 📁 Files
-
-| File | Description |
-|------|-------------|
-| `Amazon_Case_Study_Analysis.xlsx` | Full Excel workbook with EDA, calculations & dashboard |
-| `README.md` | This project summary |
-| `assets/` | *(Optional)* Visuals or screenshots of the dashboard |
+- **Tool Used**: Microsoft Excel for Data Cleaning and wrangling[Download Here](http://www.microsoft.com)
+- **Skills Applied**:
+  -Data collection
+  - Data cleaning and formatting
+  -  Pivot Tables & Charts
+  - Conditional formatting
+  - Dashboard creation
+  - Descriptive statistics
+  -  GitHub (Project Hosting)
 
 ---
 
-## 📌 Tools Used
+## 📋 Deliverables
 
-- Microsoft Excel (Pivot Tables, Charts, Formulas)
-- GitHub (Project Hosting)
-- Markdown (Documentation)
-
----
-
-## 📬 Contact
-
-**Anuoluwapo Ifeoluwa Priceless Gem**  
-Aspiring Data Analyst  
-[LinkedIn Profile](#) | [Email](#)  
+- ✅ Excel File with:
+  - Cleaned dataset
+  - Pivot tables
+  - Visual charts
+  - Dashboard
+- ✅ Insights summary
+- ✅ This GitHub repository
 
 ---
----
 
-## 🙌 Author
 
-**Anuoluwapo Ifeoluwa**  
-Aspiring Data Analyst | Excel • SQL • Power BI • Python  
-[LinkedIn](#) | [GitHub](#) | [Email](owoeyeanuoluwwapo77@gmail.com)
+## ✅ Recommendations
+
+- Focus marketing on top-rated products with >1000 reviews
+- Improve listing for low-rating but high-review-count products
+- Analyze pricing strategy for underperforming categories
+- Leverage discounts strategically in categories that respond positively
+
+
+
+
+# 📬 Contact
+
+**Anuoluwapo Ifeoluwa Owoeye**  
+Aspiring Data Analyst | Excel • SQL • Power BI • Python   
+[LinkedIn Profile](#)| [GitHub](#) | [Email](owoeyeanuoluwapo77@gmail.com)  
+
