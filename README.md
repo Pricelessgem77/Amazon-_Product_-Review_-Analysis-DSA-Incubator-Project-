@@ -39,7 +39,6 @@
 14. Top 5 products (rating × review combo)
 
 ---
-
 ## 🧠 Approach & Methodology
 
 - Cleaned the dataset using Excel
